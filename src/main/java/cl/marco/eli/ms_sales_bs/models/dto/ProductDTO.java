@@ -8,4 +8,5 @@ public record ProductDTO(
         Integer stock,
         String name
 ) {
+
 }
